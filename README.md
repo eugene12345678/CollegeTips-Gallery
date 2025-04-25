@@ -10,7 +10,7 @@ A feature-rich, visually appealing photo gallery designed to showcase CollegeTip
 
 ```bash
 git clone https://github.com/eugene12345678/CollegeTips-Gallery.git
-cd college-tips-gallery
+cd CollegeTips Gallery
 ```
 
 ### 2. Install Dependencies
