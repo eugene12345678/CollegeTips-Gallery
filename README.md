@@ -9,7 +9,7 @@ A feature-rich, visually appealing photo gallery designed to showcase CollegeTip
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/college-tips-gallery.git
+git clone https://github.com/eugene12345678/CollegeTips-Gallery.git
 cd college-tips-gallery
 ```
 
